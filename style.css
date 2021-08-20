@@ -1,0 +1,65 @@
+#first {
+    border: solid blue;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-bottom: 75px;
+    margin-right: 50px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+#second {
+    border: solid red ;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-bottom: 75px;
+    margin-right: 50px;
+    color: white ;
+    background-color: red;
+}
+#third {
+    border: dashed black;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-bottom: 75px;
+    margin-right: 50px;
+    color: white ;
+    background-color:black ;
+
+}
+#fourth {
+    border: dotted brown;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-bottom: 75px;
+    margin-right: 50px;
+    color: white ;
+    background-color:brown ;
+}
+#fifth {
+    border: double orange;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-bottom: 75px;
+    margin-right: 50px;
+    color: white ;
+    background-color:orange ;
+}
+#sixth {
+    border: double yellow;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-bottom: 75px;
+    margin-right: 50px;
+    color: white ;
+    background-color:yellow ;
+}
+#seventh {
+    border: solid double grey;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-bottom: 75px;
+    margin-right: 50px;
+    color: white ;
+    background-color:grey ;
+}
